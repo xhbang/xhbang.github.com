@@ -4,7 +4,7 @@
   <title><![CDATA[/home/hang]]></title>
   <link href="http://xhbang.github.io/atom.xml" rel="self"/>
   <link href="http://xhbang.github.io/"/>
-  <updated>2013-07-03T08:39:25+08:00</updated>
+  <updated>2013-07-04T12:01:29+08:00</updated>
   <id>http://xhbang.github.io/</id>
   <author>
     <name><![CDATA[xhbang]]></name>
@@ -12,6 +12,57 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[cubieboard-overview]]></title>
+    <link href="http://xhbang.github.io/blog/2013/07/cubieboard-overview/"/>
+    <updated>2013-07-04T12:00:00+08:00</updated>
+    <id>http://xhbang.github.io/blog/2013/07/cubieboard-overview</id>
+    <content type="html"><![CDATA[<h2>硬件</h2>
+
+<ul>
+<li>1G ARM Cortex-A8处理器的；</li>
+<li>1GB DDR3@480MHz；</li>
+<li>HDMI 1080p 高清输出；</li>
+<li>100M 网卡</li>
+</ul>
+
+
+<h3>全志A10系列</h3>
+
+<p>烂大街板子，pcDuino？cubieboard？raspberry pi？</p>
+
+<blockquote><p>和mk802差不多同样的芯片同样的cpu只不过接口多了一些却少了wifi和蓝牙模块，不是发骚的或者玩器材的不建议购买。</p></blockquote>
+
+<h2>配件</h2>
+
+<ul>
+<li>一条TTL线</li>
+<li>一个usb&lt;&ndash;>AC供电线</li>
+<li>一条sata线</li>
+<li>一个透明的壳子+螺丝</li>
+</ul>
+
+
+<p>都是比较人性化的设定。</p>
+
+<h3>phy芯片</h3>
+
+<h2>体验</h2>
+
+<h3>1080p硬解</h3>
+
+<h3>cubieboard的sata</h3>
+
+<p>全志A10官方测试在60MB/s。自己没实测，这样的话挂个硬盘作电视盒倒是很适合的。</p>
+
+<h3>loadaverage</h3>
+
+<h3>支持的系统</h3>
+
+<p>A20版本的支持到了4.2.2</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[一个痴汉经理的自恋笔记]]></title>
