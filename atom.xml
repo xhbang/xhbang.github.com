@@ -4,7 +4,7 @@
   <title><![CDATA[/home/hang]]></title>
   <link href="http://xhbang.github.io/atom.xml" rel="self"/>
   <link href="http://xhbang.github.io/"/>
-  <updated>2013-07-04T12:01:29+08:00</updated>
+  <updated>2013-07-05T17:56:36+08:00</updated>
   <id>http://xhbang.github.io/</id>
   <author>
     <name><![CDATA[xhbang]]></name>
@@ -12,6 +12,55 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[本周神器]]></title>
+    <link href="http://xhbang.github.io/blog/2013/07/gadget-of-this-week/"/>
+    <updated>2013-07-05T17:55:00+08:00</updated>
+    <id>http://xhbang.github.io/blog/2013/07/gadget-of-this-week</id>
+    <content type="html"><![CDATA[<p>号称办公效率最低的周五来啦，产品组都在做些什么呢？</p>
+
+<h3>能量之星！！其实，我是一个演员。</h3>
+
+<p>感谢万能的淘宝，这是一个可以随身测试当前环境的卡片，上面主要有：温度传感器和UV传感。</p>
+
+<p><img src="http://i.imgur.com/GGghGjZl.jpg" alt="img" /></p>
+
+<blockquote><p>我擦平时有这么冷么</p></blockquote>
+
+<p>先是测试温度，看来外壳的影响还是比较大，两者出现了比较大的温差。</p>
+
+<p><img src="http://i.imgur.com/h7TjY1ml.jpg" alt="img" /></p>
+
+<p><img src="http://i.imgur.com/GUDoVrhl.jpg" alt="img" /></p>
+
+<blockquote><p>两者的温度，UV值都有比较大的区别。</p></blockquote>
+
+<p>关于UV传感，发现是一块太阳能板，不像是我们平时UV模块使用的sensor，初步判断是个鸡肋功能实现，根据太阳能的产生的电压/电流，自己预设阈值来判断UV强度，是相对的，大哉我天朝华强北！</p>
+
+<p><img src="http://i.imgur.com/QCVcnKPl.jpg" alt="img" /></p>
+
+<blockquote><p>仔细观察，左上是一个太阳能板，右下有一个温敏电阻。左下是作者的名字。。太阳的图片很可爱</p>
+
+<p>关键是它的价格，不是998，也不是99.8，更不是9.98，只要6块钱，能量之星带回家！路过不能错过，买到就是赚到！！回去逗小孩什么的，还是可以的。</p></blockquote>
+
+<h3>阳光罐（外一则）</h3>
+
+<p>本月很多同事过生日，HR终于有所长进，以往的生日礼物有：一支笔或者一把钥匙扣。。。</p>
+
+<p><img src="http://i.imgur.com/dHUNHikl.jpg" alt="img" /></p>
+
+<blockquote><p>让人纠结的谁先快乐</p></blockquote>
+
+<p><img src="http://i.imgur.com/Fv05VSjl.jpg" alt="img" /></p>
+
+<p>经过拆卸，有一块性能不太好的太阳能板+一些LED，磨砂玻璃的质感很好。最近深圳也是毒日，大家很开心的把阳光罐放到外挂的空调上去“吸收阳光”，期待着晚上的小小惊喜。</p>
+
+<h3>其他故事</h3>
+
+<p>我们更新了404页面，还比较简陋。希望大家提建议。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[cubieboard-overview]]></title>
