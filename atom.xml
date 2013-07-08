@@ -4,7 +4,7 @@
   <title><![CDATA[/home/hang]]></title>
   <link href="http://xhbang.github.io/atom.xml" rel="self"/>
   <link href="http://xhbang.github.io/"/>
-  <updated>2013-07-05T17:56:36+08:00</updated>
+  <updated>2013-07-08T18:03:18+08:00</updated>
   <id>http://xhbang.github.io/</id>
   <author>
     <name><![CDATA[xhbang]]></name>
@@ -12,6 +12,174 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Getting start with Xadow]]></title>
+    <link href="http://xhbang.github.io/blog/2013/07/getting-start-with-xadow/"/>
+    <updated>2013-07-08T17:09:00+08:00</updated>
+    <id>http://xhbang.github.io/blog/2013/07/getting-start-with-xadow</id>
+    <content type="html"><![CDATA[<p>Beginner friendly, Arduino compatible, This is Xadow.</p>
+
+<p>For more info, you can find an <a href="http://www.seeedstudio.com/blog/2013/06/28/xadow-versatile-prototyping-to-light-up-your-personal-life/">introduction here</a></p>
+
+<p>Code with Xadow!</p>
+
+<p><img src="http://i.imgur.com/uiWliVLl.jpg" alt="main" /></p>
+
+<p>Design with Xadow!</p>
+
+<p><img src="http://www.seeedstudio.com/blog/wp-content/uploads/2013/06/Xadow51.jpg" alt="xadow modules" /></p>
+
+<p>This is a tutorial on how to Build your first Xadow program.</p>
+
+<h2>Install Driver</h2>
+
+<h3>Config</h3>
+
+<p>Fist, change some config files on Arduino IDE, don&rsquo;t worry, it&rsquo;s easy.</p>
+
+<p>Files with path are list below.(Arduino-1.0.1 maybe different depends on your version).</p>
+
+<ul>
+<li>Arduino-1.0.1/hardware/arduino/cores/arduino/USBCore.cpp</li>
+<li>Arduino-1.0.1/hardware/arduino/boards.txt</li>
+</ul>
+
+
+<p>Download our new files and replace:</p>
+
+<ul>
+<li><a href="http://www.seeedstudio.com/wiki/File:USBCore.zip">new USBCore.cpp</a></li>
+<li><a href="http://www.seeedstudio.com/wiki/File:Boards.zip">new boards.txt</a></li>
+</ul>
+
+
+<p>For Mac Lion user, your Arduino folder may not list under Document/Arduino, open your Application folder, find &ldquo;Arduino&rdquo;, right click , then &ldquo;show package content&rdquo;.</p>
+
+<p><img src="http://i.imgur.com/ByYnmJyl.png" alt="img" /></p>
+
+<p>There will be a path way to &ldquo;hardware&rdquo;. Find board.txt, replace it(or you can back up original file by rename it to board-old.txt).</p>
+
+<p><img src="http://i.imgur.com/lmfJvsGl.png" alt="img" /></p>
+
+<p>Then USBCore.cpp</p>
+
+<p><img src="http://i.imgur.com/aqw6Xhsl.png" alt="img" /></p>
+
+<p>For windows users, it will esaier, just find the Ardunio Folder!</p>
+
+<h3>Install Drivers(windows only)</h3>
+
+<p>We made some screenshots in Win7 step by step.</p>
+
+<p>Download the <a href="http://www.seeedstudio.com/wiki/File:Xadow_drive.zip">Driver File</a> and save it, unzip it.</p>
+
+<p>When you plug Xadow into your computer, where will be a pop up. Ignore it.</p>
+
+<p>Open Device Manager with Start menu.Right click and choose Update driver.</p>
+
+<p><img src="http://i.imgur.com/8FZJ2Jel.jpg" alt="img" /></p>
+
+<p>When asked to install automatically or from a specific location, select &ldquo;Browse my computer for driver software&rdquo;.</p>
+
+<p><img src="http://www.seeedstudio.com/wiki/images/b/ba/Xadow_Main_Board_Driver_step2.jpg" alt="img" /></p>
+
+<p>Choose &ldquo;Search for the best driver in these locations&rdquo;, and check the box &ldquo;incude this location in the search&rdquo;. Click the Browse button and navigate to drive you have downloaded. Select the drivers folder an click OK.</p>
+
+<p><img src="http://www.seeedstudio.com/wiki/images/e/e0/Xadow_Main_Board_Driver_step3.jpg" alt="img" /></p>
+
+<p>&ldquo;Successful updated&rdquo; screenshot, if not please contact us.</p>
+
+<p><img src="http://i.imgur.com/xUuXVx8l.jpg" alt="img" /></p>
+
+<h2>Blink test</h2>
+
+<p>First, connect your Xadow via microUSB.</p>
+
+<p>Like Arduino UNO, there is a LED on board.</p>
+
+<p>Checkout our code at github:</p>
+
+<p><a href="https://github.com/reeedstudio/xadow">https://github.com/reeedstudio/xadow</a></p>
+
+<p>(it&rsquo;s reeedstudio, we name it for fun)</p>
+
+<blockquote><p>git clone <a href="https://github.com/reeedstudio/xadow.git">https://github.com/reeedstudio/xadow.git</a></p></blockquote>
+
+<p>or you can simply download zip file.</p>
+
+<p>Put this fold under your library.</p>
+
+<p>From the Tools menu, choose Board.</p>
+
+<p><img src="http://i.imgur.com/te3yO7il.png" alt="img" /></p>
+
+<p>Then choose Port.</p>
+
+<p><img src="http://i.imgur.com/rvy5gdMl.png" alt="img" /></p>
+
+<p>When ready, you will see</p>
+
+<p><img src="http://i.imgur.com/5YDlcI1l.png" alt="img" /></p>
+
+<p>Then choose our example: UserLed.</p>
+
+<p><img src="http://i.imgur.com/AQcLPYql.png" alt="img" /></p>
+
+<p>Upload it.</p>
+
+<p><img src="http://i.imgur.com/3Bdr3QKl.png" alt="img" /></p>
+
+<p>Then you will see the green Led blink.</p>
+
+<p><img src="http://i.imgur.com/5Hig3g8l.jpg" alt="img" /></p>
+
+<h2>Xadow projects</h2>
+
+<p><img src="http://i.imgur.com/mH0bg2Xl.jpg" alt="img" /></p>
+
+<p>Xadow Wearable Creation</p>
+
+<ul>
+<li>LED module</li>
+<li>Xadow Main Board</li>
+</ul>
+
+
+<p><img src="http://i.imgur.com/b5HJUaDl.jpg" alt="img" /></p>
+
+<ul>
+<li>BLE module</li>
+<li>Xadow Main Board</li>
+</ul>
+
+
+<p><img src="http://i.imgur.com/uR5pZl1l.jpg" alt="img" /></p>
+
+<p>Xadow Metal Frame Watch</p>
+
+<ul>
+<li>OLED module</li>
+<li>Xadow Main Board</li>
+<li>Xadow RTC</li>
+</ul>
+
+
+<p><a href="http://www.seeedstudio.com/wiki/File:Xadow_Chewing_Gum.jpg">http://www.seeedstudio.com/wiki/File:Xadow_Chewing_Gum.jpg</a></p>
+
+<p>Xadow presure &amp; temperaure logger</p>
+
+<ul>
+<li>Xadow Main Board</li>
+<li>Barometer module</li>
+</ul>
+
+
+<p><img src="http://i.imgur.com/rBEswRGl.jpg" alt="img" /></p>
+
+<p>Concept smart watch, LOL.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[本周神器]]></title>
