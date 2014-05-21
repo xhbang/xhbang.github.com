@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://xhbang.github.io/sitemap.xml 

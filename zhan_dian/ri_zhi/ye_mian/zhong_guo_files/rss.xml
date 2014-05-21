@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>我的照片</title>
+    <link>http://zhan_dian/ri_zhi/ye_mian/zhong_guo.html</link>
+    <description>Lorem ipsum dolor sit amet, ligula suspendisse nulla pretium, rhoncus tempor placerat fermentum, enim integer ad vestibulum volutpat. Nisl rhoncus turpis est, vel elit, congue wisi enim nunc ultricies sit, magna tincidunt.</description>
+    <item>
+      <title>酷热的夏天</title>
+      <link>http://zhan_dian/ri_zhi/ye_mian/zhong_guo.html#0</link>
+      <guid isPermaLink="false">765f90cd-7b4e-4f6a-aa66-17498a8247df</guid>
+      <enclosure url="http://zhan_dian/ri_zhi/ye_mian/zhong_guo_files/Media/AA044669_a/AA044669_a.jpg" length="35648" type="image/jpeg"/>
+      <iphoto:thumbnail>http://zhan_dian/ri_zhi/ye_mian/zhong_guo_files/Media/AA044669_a/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://zhan_dian/ri_zhi/ye_mian/zhong_guo_files/Media/AA044669_a/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://zhan_dian/ri_zhi/ye_mian/zhong_guo_files/Media/AA044669_a/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style_1&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;&lt;span style=&quot;font-family: 'STHeitiSC-Light', 'Heiti SC'; font-size: 14px; font-stretch: normal; font-style: normal; font-weight: 300; line-height: 14px; &quot;&gt;酷热的夏天&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Sue 从波士顿来访</title>
+      <link>http://zhan_dian/ri_zhi/ye_mian/zhong_guo.html#1</link>
+      <guid isPermaLink="false">8161cdfd-6bea-488b-887b-865a3a3f2213</guid>
+      <enclosure url="http://zhan_dian/ri_zhi/ye_mian/zhong_guo_files/Media/skd267505sdc_a/skd267505sdc_a.jpg" length="49034" type="image/jpeg"/>
+      <iphoto:thumbnail>http://zhan_dian/ri_zhi/ye_mian/zhong_guo_files/Media/skd267505sdc_a/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://zhan_dian/ri_zhi/ye_mian/zhong_guo_files/Media/skd267505sdc_a/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://zhan_dian/ri_zhi/ye_mian/zhong_guo_files/Media/skd267505sdc_a/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style_1&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Sue 从波士顿来访&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>夏季全体成员</title>
+      <link>http://zhan_dian/ri_zhi/ye_mian/zhong_guo.html#2</link>
+      <guid isPermaLink="false">1bfbac46-c099-4e7e-b795-9a2dbe889229</guid>
+      <enclosure url="http://zhan_dian/ri_zhi/ye_mian/zhong_guo_files/Media/skd267655sdc_a/skd267655sdc_a.jpg" length="57188" type="image/jpeg"/>
+      <iphoto:thumbnail>http://zhan_dian/ri_zhi/ye_mian/zhong_guo_files/Media/skd267655sdc_a/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://zhan_dian/ri_zhi/ye_mian/zhong_guo_files/Media/skd267655sdc_a/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://zhan_dian/ri_zhi/ye_mian/zhong_guo_files/Media/skd267655sdc_a/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;style_External_165_32&quot;&gt;&lt;div class=&quot;style_1&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;&lt;span style=&quot;font-family: 'STHeitiSC-Light', 'Heiti SC'; font-size: 14px; font-stretch: normal; font-style: normal; font-weight: 300; line-height: 14px; &quot;&gt;夏季全体成员&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>

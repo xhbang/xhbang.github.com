@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Blog</title>
+    <link>http://zhan_dian/Blog</link>
+    <description>Donec arcu risus diam amet sit. Congue tortor cursus risus vestibulum commodo nisl, luctus augue amet quis aenean maecenas sit, donec velit iusto, morbi felis elit et nibh. Vestibulum volutpat dui lacus consectetuer, mauris at suspendisse sit.</description>
+    <item>
+      <title>&#x957F;&#x677F;&#x8FD0;&#x52A8;&#x4E00;&#x65E5;</title>
+      <link>http://zhan_dian/Blog/tiao_mu/2014/5/21_tiao_mu_1.html</link>
+      <guid isPermaLink="false">302ca6eb-616c-4ef9-986f-051639683e05</guid>
+      <pubDate>Wed, 21 May 2014 23:01:48 +0800</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://zhan_dian/Blog/tiao_mu/2014/5/21_tiao_mu_1.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>&#x957F;&#x677F;&#x8FD0;&#x52A8;&#x4E00;&#x65E5;</title>
+      <link>http://zhan_dian/Blog/tiao_mu/2014/5/21_zhang_ban_yun_dong_yi_ri.html</link>
+      <guid isPermaLink="false">b2daebbb-4059-4424-b6ca-6fafaee1414a</guid>
+      <pubDate>Wed, 21 May 2014 22:31:53 +0800</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://zhan_dian/Blog/tiao_mu/2014/5/21_zhang_ban_yun_dong_yi_ri.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>y&#x5E74;M&#x6708;d&#x65E5; EEEE</iweb:dateFormat>
+    <iweb:baseURL>http://zhan_dian/Blog</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

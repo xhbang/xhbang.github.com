@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:EC2C8621-CAD7-4C96-9A12-95F50878D808</id>
+ <title>Page list Atom feed</title>
+ <updated>2014-05-21T23:05:16+08:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:9B983C33-B49E-4F38-9DA4-43750AB23765</id>
+  <title>欢迎</title>
+  <title xmlns="urn:iweb:">欢迎</title>
+  <in-navbar xmlns="urn:iweb:">9B983C33-B49E-4F38-9DA4-43750AB23765</in-navbar>
+  <link rel="alternate" href="huan_ying.html"/>
+  <updated>2014-05-21T23:05:16.001+08:00</updated>
+  <content>欢迎</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:5D957B1C-85E8-415E-9AAC-1D37C5E0F3CE</id>
+  <title>日志</title>
+  <title xmlns="urn:iweb:">日志</title>
+  <in-navbar xmlns="urn:iweb:">5D957B1C-85E8-415E-9AAC-1D37C5E0F3CE</in-navbar>
+  <link rel="alternate" href="ri_zhi/ri_zhi.html"/>
+  <updated>2014-05-21T23:05:16.002+08:00</updated>
+  <content>日志</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:CBA2112A-759A-490A-B427-A32FF3A985DE</id>
+  <title>Blog</title>
+  <title xmlns="urn:iweb:">Blog</title>
+  <in-navbar xmlns="urn:iweb:">CBA2112A-759A-490A-B427-A32FF3A985DE</in-navbar>
+  <link rel="alternate" href="Blog/Blog.html"/>
+  <updated>2007-01-24T01:29:52+08:00</updated>
+  <content>Blog</content>
+ </entry>
+</feed>

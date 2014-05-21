@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>我的相簿</title>
+    <link>http://zhan_dian/ri_zhi/ri_zhi.html</link>
+    <description>我的相簿</description>
+    <item>
+      <title>台湾</title>
+      <link>http://zhan_dian/ri_zhi/ye_mian/tai_wan.html</link>
+      <guid isPermaLink="false">83e76992-3ed7-4bbc-9e32-befd73eb7aac</guid>
+    </item>
+    <item>
+      <title>中国</title>
+      <link>http://zhan_dian/ri_zhi/ye_mian/zhong_guo.html</link>
+      <guid isPermaLink="false">e173ab7b-2952-49e3-b463-cf3aceb2e2f0</guid>
+    </item>
+  </channel>
+</rss>
